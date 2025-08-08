@@ -6,5 +6,4 @@ import convert from './converter.js'; // Import the converter function
 //alert("JS is working!");
 
 //snail(); // Call the main function from snail.js
-alert(convert(100, 42.2)); // Example usage of the convert function
-
+alert(convert(100, 42.2)); // call the convert function with example values
